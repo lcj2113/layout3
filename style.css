@@ -1,0 +1,39 @@
+* {
+     box-sizing: border-box;
+}
+header, footer {
+     height: 200px;
+     border: 2px solid black;
+     background: rgb(91, 48, 0);
+     clear: both;
+}
+.skinnyMargarita {
+     height: 600px;
+     width: 20%;
+     border: 4px solid black;
+     background: rgb(102, 70, 44);
+     float: left;
+}
+.whiskeySour {
+     height: 600px;
+     width: 40%;
+     border: 4px solid black;
+     background: rgb(114, 105, 83);
+     float:inline-start
+}
+.tequilaSunrise {
+     height: 600px;
+     width: 20%;
+     border: 4px solid black;
+     background: rgb(118, 135, 125);
+     float: inline-end
+}
+.vodkaSoda {
+     height: 600px;
+     width: 20%;
+     border: 2px solid black;
+     background: rgb(130, 166, 177);
+     float: right;
+}
+
+
